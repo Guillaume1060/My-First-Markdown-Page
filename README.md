@@ -22,7 +22,7 @@ Loin d'être un geek, un **petit syndrôme de l'imposteur** devrait m'arriver :)
 ## The things you look forward to.
 Hâte de me prendre la tête sur *Javascript*...mouais...pas sûr ! :)
 
-##The Three things you value the most to work as a team
+## The Three things you value the most to work as a team
 Hâte de Githuber avec la team! Malgré mon côté néophyte, il faudra proposer des idées !
 
 ##### Joie!
